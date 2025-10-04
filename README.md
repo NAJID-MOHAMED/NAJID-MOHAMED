@@ -1,163 +1,363 @@
 <div align="center">
-  
-# 👋 Hi, I'm Najid Mohamed
 
-### Full Stack Developer & DevOps Engineer
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Najid Mohamed
 
-*Building scalable, intelligent, and cloud-ready systems.*
+### Full Stack Architect | DevOps Engineer | Cloud Native Specialist
 
-[![Email](https://img.shields.io/badge/Email-najidmohamed2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najidmohamed2026@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najid-mohamed-1075932b5)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NAJID-MOHAMED)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Cloud+Native+Architecture+Expert;Microservices+%26+DevOps+Enthusiast;AI-Driven+Solutions+Developer)](https://git.io/typing-svg)
 
-📍 Marrakech, Morocco
+<p align="center">
+  <a href="mailto:najidmohamed2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/najid-mohamed-1075932b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/NAJID-MOHAMED"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NAJID-MOHAMED&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
+
+```ascii
+📍 Marrakech, Morocco  |  🌍 Building the Future of Cloud-Native Applications
+```
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 About
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** with expertise in building modern web applications and cloud-native solutions. I specialize in microservices architecture, containerization, and CI/CD pipelines, with a strong focus on delivering scalable and maintainable systems.
+```typescript
+const najid = {
+    role: "Full Stack Architect & DevOps Engineer",
+    location: "Marrakech, Morocco 🇲🇦",
+    expertise: ["Microservices Architecture", "Cloud Native Solutions", "DevOps Automation"],
+    
+    currentFocus: [
+        "Event-Driven Architecture with Kafka & Flink",
+        "AI/ML Integration in Production Systems",
+        "Zero-Downtime Deployment Strategies",
+        "High-Performance Distributed Systems"
+    ],
+    
+    philosophy: "Code is poetry, architecture is art, and DevOps is the science that brings them to life",
+    
+    certifications: {
+        java: "Oracle Certified Java Developer",
+        cloud: "AWS Cloud Practitioner",
+        devops: "Oracle DevOps Professional",
+        agile: "Scrum Alliance Agile PM"
+    }
+};
+```
 
-- 🔭 Currently working on AI-driven platforms and microservices architectures
-- 🌱 Exploring advanced cloud technologies and machine learning integration
-- 💡 Passionate about clean code, automation, and DevOps best practices
-- 🎯 Committed to continuous learning and staying ahead in tech trends
+<details>
+<summary><b>🎯 What I Bring to the Table</b></summary>
+<br>
+
+- 🏗️ **Architecture**: Design and implement scalable microservices architectures with event-driven patterns
+- ☁️ **Cloud Native**: Build cloud-agnostic solutions leveraging AWS, containerization, and orchestration
+- 🔄 **DevOps Excellence**: Implement CI/CD pipelines, infrastructure as code, and automated deployment strategies
+- 🤖 **AI Integration**: Develop intelligent systems using machine learning for real-world business problems
+- 📊 **Data Engineering**: Design real-time data processing pipelines with Kafka and Flink
+- 🚀 **Performance**: Optimize systems for high throughput, low latency, and exceptional user experience
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Arsenal
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend & Architecture
+```yaml
+Languages:
+  - Java (Spring Boot, Spring Cloud)
+  - Python (Django, Flask, FastAPI)
+  - Node.js (Express, NestJS)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Patterns:
+  - Microservices Architecture
+  - Event-Driven Design
+  - CQRS & Event Sourcing
+  - Domain-Driven Design
+  - RESTful & GraphQL APIs
+```
+
+</td>
+<td valign="top" width="33%">
+
+### Frontend & Modern Web
+```yaml
+Frameworks:
+  - React.js & Next.js
+  - TypeScript
+  - State Management (Redux, Zustand)
+  
+Design:
+  - Responsive & Mobile-First
+  - Component-Driven Development
+  - Progressive Web Apps
+  - Server-Side Rendering
+```
+
+</td>
+<td valign="top" width="33%">
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+```yaml
+Cloud Platforms:
+  - AWS (EC2, ECS, Lambda, S3)
+  - Docker & Kubernetes
+  
+CI/CD:
+  - Jenkins & GitLab CI
+  - GitHub Actions
+  - ArgoCD
+  
+IaC:
+  - Terraform
+  - Ansible
+```
 
-### Databases
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### Data & Messaging
+```yaml
+Databases:
+  - PostgreSQL (Advanced)
+  - MongoDB
+  - Redis (Caching & Pub/Sub)
+  
+Streaming:
+  - Apache Kafka
+  - Apache Flink
+  - RabbitMQ
+```
+
+</td>
+<td valign="top" width="33%">
+
+### AI & Machine Learning
+```yaml
+Frameworks:
+  - TensorFlow & PyTorch
+  - Scikit-learn
+  - FAISS (Vector Search)
+  
+Applications:
+  - Computer Vision
+  - NLP & Text Analysis
+  - Recommendation Systems
+  - Fraud Detection
+```
+
+</td>
+<td valign="top" width="33%">
+
+### Tools & Practices
+```yaml
+Monitoring:
+  - Prometheus & Grafana
+  - ELK Stack
+  
+Practices:
+  - Agile/Scrum Methodologies
+  - TDD & BDD
+  - Code Review & Pair Programming
+  - Clean Code Principles
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📦 Tech Stack Visualization
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer |
-|--------------|--------|
-| ☕ **Oracle Certified Java Developer** | Oracle |
-| ☁️ **AWS Cloud Practitioner** | Amazon Web Services |
-| 🔧 **Oracle DevOps Professional** | Oracle |
-| 📋 **Scrum Alliance Agile PM** | Scrum Alliance |
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLabCI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
-
-### 🚗 [Mobiloca](https://github.com/NAJID-MOHAMED/mobiloca)
-**Vehicle Rental Microservices Platform**
-- Built with Spring Boot, Next.js, AWS, and Docker
-- Implemented microservices architecture with API Gateway
-- Deployed scalable infrastructure on AWS with CI/CD pipelines
-- **Tech:** Java, Spring Boot, Next.js, Docker, AWS, PostgreSQL
-
-### 🎓 [ElGhazi EduPlatform](https://github.com/NAJID-MOHAMED/elghazi-edu)
-**AI-Powered E-Learning Application**
-- Intelligent course recommendation system using machine learning
-- Real-time collaboration features and progress tracking
-- Responsive design with modern UI/UX principles
-- **Tech:** Django, Next.js, PostgreSQL, TensorFlow, Redis
-
-### 📝 [AnnotationApp](https://github.com/NAJID-MOHAMED/annotation-app)
-**Real-Time Annotation Management System**
-- Collaborative annotation platform with real-time updates
-- RESTful API with Spring Boot backend
-- Interactive React frontend with state management
-- **Tech:** Spring Boot, React.js, PostgreSQL, WebSocket
-
-### 🖼️ [ImageMatchAI](https://github.com/NAJID-MOHAMED/image-match-ai)
-**Computer Vision Image Retrieval System**
-- Advanced image similarity search using deep learning
-- FAISS-powered vector database for fast retrieval
-- Flask API with efficient image processing pipeline
-- **Tech:** Flask, TensorFlow, FAISS, Python, OpenCV
-
-### 🔒 [Fraud Detection System](https://github.com/NAJID-MOHAMED/fraud-detection)
-**Real-Time Stream Processing Platform**
-- Stream processing with Apache Flink and Kafka
-- Real-time anomaly detection using machine learning
-- Scalable architecture for high-throughput data processing
-- **Tech:** Apache Flink, Kafka, Python, Elasticsearch
-
----
-
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAJID-MOHAMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NAJID-MOHAMED&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAJID-MOHAMED&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAJID-MOHAMED&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAJID-MOHAMED&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NAJID-MOHAMED&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAJID-MOHAMED&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
 ---
 
-## 🌟 Core Competencies
+## 🏆 Achievements & Recognition
 
-```yaml
-Architecture: Microservices, RESTful APIs, Event-Driven Architecture
-Development: Full Stack Development, Test-Driven Development, Agile/Scrum
-DevOps: CI/CD, Containerization, Infrastructure as Code, Cloud Deployment
-Specialties: Cloud-Native Applications, Machine Learning Integration, Real-Time Systems
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NAJID-MOHAMED&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎓 Professional Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | 🎯 Focus Area |
+|:-----------------|:----------|:--------------|
+| **Oracle Certified Java Developer** | Oracle | Enterprise Java Development |
+| **AWS Cloud Practitioner** | Amazon Web Services | Cloud Architecture & Services |
+| **Oracle DevOps Professional** | Oracle | CI/CD & Automation |
+| **Scrum Alliance Agile PM** | Scrum Alliance | Agile Project Management |
+
+</div>
+
+---
+
+## 💡 Core Competencies Matrix
+
+```mermaid
+graph LR
+    A[Full Stack Development] --> B[Backend Architecture]
+    A --> C[Frontend Engineering]
+    B --> D[Microservices]
+    B --> E[REST/GraphQL APIs]
+    C --> F[React Ecosystem]
+    C --> G[Modern Web Standards]
+    
+    H[DevOps & Cloud] --> I[Container Orchestration]
+    H --> J[CI/CD Pipelines]
+    I --> K[Docker/Kubernetes]
+    J --> L[Jenkins/GitLab]
+    
+    M[Data Engineering] --> N[Stream Processing]
+    M --> O[Database Design]
+    N --> P[Kafka/Flink]
+    O --> Q[SQL/NoSQL]
+    
+    R[AI/ML] --> S[Computer Vision]
+    R --> T[Predictive Analytics]
 ```
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
+## 🌟 Professional Philosophy
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-najidmohamed2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najidmohamed2026@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Najid_Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najid-mohamed-1075932b5)
+> *"In the realm of software engineering, elegance lies not in the complexity of the solution,*  
+> *but in the simplicity of the architecture that solves complex problems."*
+
+</div>
+
+### 🎯 My Approach
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏗️ **Architecture First**
+- Design systems that scale horizontally
+- Embrace cloud-native patterns
+- Prioritize maintainability and extensibility
+- Apply SOLID principles religiously
+
+</td>
+<td width="50%">
+
+#### 🚀 **Automation Everything**
+- Infrastructure as Code is non-negotiable
+- CI/CD pipelines for rapid delivery
+- Automated testing at every layer
+- Monitoring and observability built-in
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💡 **Innovation Driven**
+- Constantly exploring emerging technologies
+- Integrating AI/ML for intelligent solutions
+- Leveraging event-driven architectures
+- Building for the future, not just today
+
+</td>
+<td width="50%">
+
+#### 🤝 **Collaboration Focused**
+- Clean, documented, and reviewable code
+- Knowledge sharing and mentorship
+- Agile methodologies for team efficiency
+- Open source contribution mindset
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐️ From [NAJID-MOHAMED](https://github.com/NAJID-MOHAMED) | *"Code with purpose, deploy with confidence"*
+## 🔗 Let's Build Something Amazing
+
+<div align="center">
+
+### 💬 Open to Collaborations On
+
+**Distributed Systems** • **Cloud Native Applications** • **AI/ML Integration** • **Open Source Projects** • **Microservices Architecture** • **DevOps Transformation**
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-najidmohamed2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najidmohamed2026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/najid-mohamed-1075932b5)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NAJID-MOHAMED)
+
+<br>
+
+```javascript
+// Let's turn ideas into reality
+if (you.have("an interesting project") || you.need("technical expertise")) {
+    reach.out("Let's discuss how we can build something extraordinary together");
+}
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**⚡ "Code with passion, architect with precision, deploy with confidence"** ⚡
 
 </div>
