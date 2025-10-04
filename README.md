@@ -1,51 +1,101 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Najid Mohamed
-
-### Full Stack Architect | DevOps Engineer | Cloud Native Specialist
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Cloud+Native+Architecture+Expert;Microservices+%26+DevOps+Enthusiast;AI-Driven+Solutions+Developer)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Najid%20Mohamed&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Architect%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Native%20Specialist&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <p align="center">
-  <a href="mailto:najidmohamed2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/najid-mohamed-1075932b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/NAJID-MOHAMED"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NAJID-MOHAMED&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Distributed+Systems+%F0%9F%9A%80;Cloud+Native+Architecture+Expert+%E2%98%81%EF%B8%8F;Microservices+%26+Event-Driven+Design+%F0%9F%8E%AF;AI-Driven+Solutions+Developer+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-```ascii
-📍 Marrakech, Morocco  |  🌍 Building the Future of Cloud-Native Applications
-```
+<p align="center">
+  <a href="mailto:najidmohamed2026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/najid-mohamed-1075932b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NAJID-MOHAMED">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NAJID-MOHAMED&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/NAJID-MOHAMED?style=for-the-badge&color=58A6FF&labelColor=1a1b27&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Location-Marrakech%2C%20Morocco%20🇲🇦-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Location"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
----
+<br>
 
-## 💫 About
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 ```typescript
-const najid = {
-    role: "Full Stack Architect & DevOps Engineer",
-    location: "Marrakech, Morocco 🇲🇦",
-    expertise: ["Microservices Architecture", "Cloud Native Solutions", "DevOps Automation"],
-    
-    currentFocus: [
-        "Event-Driven Architecture with Kafka & Flink",
-        "AI/ML Integration in Production Systems",
-        "Zero-Downtime Deployment Strategies",
-        "High-Performance Distributed Systems"
-    ],
-    
-    philosophy: "Code is poetry, architecture is art, and DevOps is the science that brings them to life",
-    
-    certifications: {
-        java: "Oracle Certified Java Developer",
-        cloud: "AWS Cloud Practitioner",
-        devops: "Oracle DevOps Professional",
-        agile: "Scrum Alliance Agile PM"
-    }
-};
+class NajidMohamed extends Developer {
+  constructor() {
+    super();
+    this.name = "Najid Mohamed";
+    this.role = "Full Stack Architect & DevOps Engineer";
+    this.location = "Marrakech, Morocco 🇲🇦";
+    this.workingOn = "Building Cloud-Native & AI-Powered Systems";
+  }
+
+  get expertise() {
+    return [
+      "Microservices Architecture",
+      "Event-Driven Design",
+      "Cloud Native Solutions",
+      "DevOps & CI/CD Automation",
+      "AI/ML Integration"
+    ];
+  }
+
+  get currentFocus() {
+    return {
+      architecture: "Event-Driven Architecture with Kafka & Flink",
+      ai: "AI/ML Integration in Production Systems",
+      deployment: "Zero-Downtime Deployment Strategies",
+      systems: "High-Performance Distributed Systems",
+      optimization: "Container Orchestration at Scale"
+    };
+  }
+
+  getPhilosophy() {
+    return "Code is poetry, architecture is art, " +
+           "and DevOps is the science that brings them to life 🚀";
+  }
+
+  get certifications() {
+    return {
+      java: "☕ Oracle Certified Java Developer",
+      cloud: "☁️ AWS Cloud Practitioner",
+      devops: "🔧 Oracle DevOps Professional",
+      agile: "📋 Scrum Alliance Agile PM"
+    };
+  }
+
+  get dailyRoutine() {
+    return [
+      "☕ Coffee",
+      "💻 Code",
+      "🏗️ Architect",
+      "🚀 Deploy",
+      "📊 Monitor",
+      "🔄 Optimize",
+      "🎯 Repeat"
+    ];
+  }
+}
+
+const najid = new NajidMohamed();
+console.log(najid.getPhilosophy());
 ```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 <details>
 <summary><b>🎯 What I Bring to the Table</b></summary>
