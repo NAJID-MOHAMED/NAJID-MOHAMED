@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Najid%20Mohamed&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Architect%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Native%20Specialist&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Najid%20Mohamed&fontSize=42&fontAlignY=32&desc=Full%20Stack%Developer%20%7C%20%20%20%7C%20%20%20&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Distributed+Systems+%F0%9F%9A%80;Cloud+Native+Architecture+Expert+%E2%98%81%EF%B8%8F;Microservices+%26+Event-Driven+Design+%F0%9F%8E%AF;AI-Driven+Solutions+Developer+%F0%9F%A4%96" alt="Typing SVG" />
