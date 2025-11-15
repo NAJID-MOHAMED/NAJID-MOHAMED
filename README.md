@@ -1,9 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Najid%20Mohamed&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20%20%20%7C%20%20%20&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Najid%20Mohamed&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cloud%20DevOps%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Distributed+Systems+%F0%9F%9A%80;%E2%98%81%EF%B8%8F;Microservices+%26+Event-Driven+Design+%F0%9F%8E%AF;AI-Driven+Solutions+Developer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Full-Stack+Developer+%7C+Cloud+%26+DevOps+Enthusiast" 
+       alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,42 +39,44 @@ class NajidMohamed extends Developer {
   constructor() {
     super();
     this.name = "Najid Mohamed";
-    this.role = "Full Stack Architect & DevOps Engineer";
+    this.role = "Full-Stack Developer | Cloud & DevOps Enthusiast";
     this.location = "Marrakech, Morocco 🇲🇦";
-    this.workingOn = "Building Cloud-Native & AI-Powered Systems";
+    this.workingOn = "Building Scalable Web & Cloud-Native Systems";
   }
 
-  get expertise() {
+
+ get expertise() {
     return [
-      "Microservices Architecture",
-      "Event-Driven Design",
-      "Cloud Native Solutions",
-      "DevOps & CI/CD Automation",
-      "AI/ML Integration"
+      "Web Development (Frontend & Backend)",
+      "Basic Cloud & DevOps",
+      "Docker & Containerization",
+      "CI/CD Pipelines",
+      "Python / Java / JavaScript"
     ];
   }
 
   get currentFocus() {
     return {
-      architecture: "Event-Driven Architecture with Kafka & Flink",
-      ai: "AI/ML Integration in Production Systems",
-      deployment: "Zero-Downtime Deployment Strategies",
-      systems: "High-Performance Distributed Systems",
-      optimization: "Container Orchestration at Scale"
+      learning: "Cloud deployment and automation",
+      projects: "Small web applications and APIs",
+      devOps: "CI/CD setup and Docker basics",
+      optimization: "Writing clean and maintainable code"
     };
   }
 
   getPhilosophy() {
-    return "Code is poetry, architecture is art, " +
-           "and DevOps is the science that brings them to life 🚀";
+    return "Keep learning, keep coding, and build things that matter 🚀";
   }
+
+  getIntroduction() {
+    return `Hi, I'm ${this.name}, a ${this.role} based in ${this.location}. Currently working on ${this.workingOn}.`;
+  }
+
 
   get certifications() {
     return {
       java: "☕ Oracle Certified Java Developer",
-      cloud: "☁️ AWS Cloud Practitioner",
       devops: "🔧 Oracle DevOps Professional",
-      agile: "📋 Scrum Alliance Agile PM"
     };
   }
 
@@ -101,12 +105,12 @@ console.log(najid.getPhilosophy());
 <summary><b>🎯 What I Bring to the Table</b></summary>
 <br>
 
-- 🏗️ **Architecture**: Design and implement scalable microservices architectures with event-driven patterns
-- ☁️ **Cloud Native**: Build cloud-agnostic solutions leveraging AWS, containerization, and orchestration
-- 🔄 **DevOps Excellence**: Implement CI/CD pipelines, infrastructure as code, and automated deployment strategies
-- 🤖 **AI Integration**: Develop intelligent systems using machine learning for real-world business problems
-- 📊 **Data Engineering**: Design real-time data processing pipelines with Kafka and Flink
-- 🚀 **Performance**: Optimize systems for high throughput, low latency, and exceptional user experience
+- 🏗️ **Development**: Build web applications with clean and maintainable code  
+- ☁️ **Cloud Basics**: Learn and use cloud services, containerization, and deployment  
+- 🔄 **DevOps Fundamentals**: Set up CI/CD pipelines and automate simple workflows  
+- 🤖 **AI/ML**: Explore AI/ML integration in small projects  
+- 📊 **Data Handling**: Work with databases and basic data processing  
+- 🚀 **Optimization**: Focus on improving performance and user experience
 
 </details>
 
@@ -120,17 +124,17 @@ console.log(najid.getPhilosophy());
 
 ### Backend & Architecture
 ```yaml
-Languages:
-  - Java (Spring Boot, Spring Cloud)
-  - Python (Django, Flask, FastAPI)
-  - Node.js (Express, NestJS)
+**Languages & Frameworks:**  
+- Java (Spring Boot)  
+- Python (Django, Flask)  
+- Node.js (Express)  
 
-Patterns:
-  - Microservices Architecture
-  - Event-Driven Design
-  - CQRS & Event Sourcing
-  - Domain-Driven Design
-  - RESTful & GraphQL APIs
+**Concepts & Patterns:**  
+- Web & API Development (REST, basic GraphQL)  
+- Basic Microservices & Event-Driven Design  
+- Clean Code & Modular Architecture  
+- Domain-Driven Design (introductory)  
+
 ```
 
 </td>
@@ -138,16 +142,17 @@ Patterns:
 
 ### Frontend & Modern Web
 ```yaml
-Frameworks:
-  - React.js & Next.js
-  - TypeScript
-  - State Management (Redux, Zustand)
-  
-Design:
-  - Responsive & Mobile-First
-  - Component-Driven Development
-  - Progressive Web Apps
-  - Server-Side Rendering
+**Frameworks & Libraries:**  
+- React.js, Next.js, Angular  
+- TypeScript  
+- State Management (Redux, Zustand)  
+
+**Design & Frontend Concepts:**  
+- Responsive & Mobile-First Design  
+- Component-Driven Development  
+- Progressive Web Apps (PWA)  
+- Server-Side Rendering (SSR)
+
 ```
 
 </td>
@@ -162,7 +167,6 @@ Cloud Platforms:
 CI/CD:
   - Jenkins & GitLab CI
   - GitHub Actions
-  - ArgoCD
   
 IaC:
   - Terraform
